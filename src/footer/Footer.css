@@ -1,0 +1,18 @@
+.footer-content {
+    display: flex;
+    align-items: center;
+}
+.avatar {
+    height: 10%;
+    width: 10%;
+}
+
+.name {
+    font-family: 'XtraBoldFigtree';
+    margin: 0 2%;
+}
+
+@font-face {
+    font-family: "XtraBoldFigtree";
+    src: local("XtraBoldFigtre"), url(/fonts/Figtree-ExtraBold.ttf) format("truetype");
+  }

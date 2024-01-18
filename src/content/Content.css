@@ -1,0 +1,41 @@
+.learning {
+    background-color: #f5d254;
+    margin: 5% 0;
+    width: fit-content;
+    padding: 2px 10px;
+    border-radius: 2px;
+    font-family: 'XtraBoldFigtree';
+}
+
+.foundation {
+    font-family: 'XtraBoldFigtree';
+    margin: 5% 0;
+    font-size: 24px;
+}
+
+.desc {
+    color: grey;
+    margin: 5% 0;
+    font-family: 'Figtree';
+    /* margin-right: 5%; */
+}
+
+.publish {
+    font-family: 'SemiBoldFigtree';
+    margin: 5% 0;
+}
+
+@font-face {
+    font-family: "XtraBoldFigtree";
+    src: local("XtraBoldFigtre"), url(/fonts/Figtree-ExtraBold.ttf) format("truetype");
+  }
+
+@font-face {
+    font-family: "SemiBoldFigtree";
+    src: local("SemiBoldFigtree"), url(/fonts/Figtree-SemiBold.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Figtree";
+    src: local("Figtree"), url(/fonts/Figtree-VariableFont_wght.ttf) format("truetype");
+  }

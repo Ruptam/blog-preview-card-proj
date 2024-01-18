@@ -1,0 +1,4 @@
+@font-face {
+    font-family: "Figtree";
+    src: local("Figtree"), url(./../public/fonts/Figtree-VariableFont_wght.ttf) format("truetype");
+  }
